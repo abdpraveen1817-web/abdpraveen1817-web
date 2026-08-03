@@ -74,10 +74,6 @@ I’m **Praveen**, a student at **GCT** and an aspiring developer learning to tu
 
 ---
 
-# Optional: Make the contribution snake animate
-
-Create this file inside your profile repository at `.github/workflows/snake.yml`.
-
 ```yaml
 name: Generate contribution snake
 
